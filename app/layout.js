@@ -10,6 +10,7 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata = {
   title: "Minimal Portfolio",
   description: "A minimal terminal-style portfolio website",
+    generator: 'v0.dev'
 }
 
 export default function RootLayout({ children }) {
